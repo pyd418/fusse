@@ -1,0 +1,43 @@
+/music/artist/origin
+length: 2, num: 11
+Rule 0:  [68, 202] :[SC, HC] [0.017167381974248927, 0.006956521739130435]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant;  /music/artist/origin; 
+Rule 1:  [32, 202] :[SC, HC] [0.0784313725490196, 0.01391304347826087]  /influence/influence_node/influenced_by;  /music/artist/origin; 
+Rule 2:  [167, 276] :[SC, HC] [0.06060606060606061, 0.0034782608695652175]  /music/group_member/membership./music/group_membership/group^-1;  /people/person/spouse_s./people/marriage/location_of_ceremony; 
+Rule 3:  [6, 202] :[SC, HC] [0.0224, 0.02434782608695652]  /award/award_winner/awards_won./award/award_honor/award_winner;  /music/artist/origin; 
+Rule 4:  [166, 202] :[SC, HC] [0.15025906735751296, 0.050434782608695654]  /music/group_member/membership./music/group_membership/group;  /music/artist/origin; 
+Rule 5:  [12, 202] :[SC, HC] [0.02072141212586339, 0.04695652173913043]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee;  /music/artist/origin; 
+Qualify Rule 6:  [202, 280] :[SC, HC] [0.5428571428571428, 0.03304347826086956]  /music/artist/origin;  /dataworld/gardening_hint/split_to; 
+Rule 7:  [202, 254] :[SC, HC] [0.04, 0.0017391304347826088]  /music/artist/origin;  /location/administrative_division/first_level_division_of; 
+Rule 8:  [58, 81] :[SC, HC] [0.016129032258064516, 0.01217391304347826]  /people/deceased_person/place_of_death;  /location/hud_county_place/place^-1; 
+Rule 9:  [167, 202] :[SC, HC] [0.25742574257425743, 0.04521739130434783]  /music/group_member/membership./music/group_membership/group^-1;  /music/artist/origin; 
+Rule 10:  [13, 202] :[SC, HC] [0.020756115641215715, 0.04869565217391304]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1;  /music/artist/origin; 
+
+After duplicate elimination, Rule_num: 10
+After duplicate elimination, Qualify_Rule_num: 1
+
+/music/artist/origin
+length: 2, num: 20
+Rule 0:  [90, 230] :[SC, HC] [0.05314009661835749, 0.019130434782608695]  /people/person/places_lived./people/place_lived/location;  /location/us_county/county_seat; 
+Rule 1:  [32, 202] :[SC, HC] [0.0784313725490196, 0.01391304347826087]  /influence/influence_node/influenced_by;  /music/artist/origin; 
+Qualify Rule 2:  [202, 230] :[SC, HC] [0.9333333333333333, 0.02434782608695652]  /music/artist/origin;  /location/us_county/county_seat; 
+Rule 3:  [202, 134] :[SC, HC] [0.0430622009569378, 0.01565217391304348]  /music/artist/origin;  /location/hud_county_place/county; 
+Rule 4:  [38, 239] :[SC, HC] [0.03225806451612903, 0.0017391304347826088]  /people/person/place_of_birth;  /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division^-1; 
+Rule 5:  [68, 202] :[SC, HC] [0.017167381974248927, 0.006956521739130435]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant;  /music/artist/origin; 
+Rule 6:  [58, 81] :[SC, HC] [0.016129032258064516, 0.01217391304347826]  /people/deceased_person/place_of_death;  /location/hud_county_place/place^-1; 
+Rule 7:  [38, 230] :[SC, HC] [0.02586206896551724, 0.0052173913043478265]  /people/person/place_of_birth;  /location/us_county/county_seat; 
+Rule 8:  [167, 202] :[SC, HC] [0.25742574257425743, 0.04521739130434783]  /music/group_member/membership./music/group_membership/group^-1;  /music/artist/origin; 
+Rule 9:  [38, 80] :[SC, HC] [0.06216423637759018, 0.1408695652173913]  /people/person/place_of_birth;  /location/hud_county_place/place; 
+Rule 10:  [167, 276] :[SC, HC] [0.06060606060606061, 0.0034782608695652175]  /music/group_member/membership./music/group_membership/group^-1;  /people/person/spouse_s./people/marriage/location_of_ceremony; 
+Rule 11:  [13, 202] :[SC, HC] [0.020756115641215715, 0.04869565217391304]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1;  /music/artist/origin; 
+Rule 12:  [166, 202] :[SC, HC] [0.15025906735751296, 0.050434782608695654]  /music/group_member/membership./music/group_membership/group;  /music/artist/origin; 
+Rule 13:  [12, 202] :[SC, HC] [0.02072141212586339, 0.04695652173913043]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee;  /music/artist/origin; 
+Qualify Rule 14:  [202, 80] :[SC, HC] [1.0, 0.47304347826086957]  /music/artist/origin;  /location/hud_county_place/place; 
+Rule 15:  [90, 80] :[SC, HC] [0.04656445201590006, 0.1426086956521739]  /people/person/places_lived./people/place_lived/location;  /location/hud_county_place/place; 
+Rule 16:  [202, 21] :[SC, HC] [0.015287769784172662, 0.029565217391304348]  /music/artist/origin;  /location/location/contains^-1; 
+Rule 17:  [69, 38] :[SC, HC] [0.010416666666666666, 0.017391304347826087]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1;  /people/person/place_of_birth; 
+Rule 18:  [167, 90] :[SC, HC] [0.10309278350515463, 0.034782608695652174]  /music/group_member/membership./music/group_membership/group^-1;  /people/person/places_lived./people/place_lived/location; 
+Rule 19:  [167, 38] :[SC, HC] [0.11450381679389313, 0.02608695652173913]  /music/group_member/membership./music/group_membership/group^-1;  /people/person/place_of_birth; 
+
+After duplicate elimination, Rule_num: 18
+After duplicate elimination, Qualify_Rule_num: 2
+

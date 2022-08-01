@@ -1,0 +1,15 @@
+MRR_total: 1
+0, 0.510078
+AVG: 0.510078
+
+Hit_10_total: 1
+0, 0.767442
+AVG: 0.767442
+MRR_total: 1
+0, 0.512016
+AVG: 0.512016
+
+Hit_10_total: 1
+0, 0.767442
+AVG: 0.767442
+Algorithm total time: 0 : 2 : 44.313490

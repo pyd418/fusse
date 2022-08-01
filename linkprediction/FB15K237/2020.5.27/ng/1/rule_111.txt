@@ -1,0 +1,22 @@
+/location/hud_county_place/county
+length: 2, num: 16
+Qualify Rule 1:  [78, 78] :[SC, HC] [1.0, 0.058823529411764705] /location/hud_county_place/county; /location/hud_county_place/county; 
+Rule 2:  [46, 47] :[SC, HC] [0.059782608695652176, 0.03594771241830065] /location/us_county/county_seat; /location/us_county/county_seat^-1; 
+Rule 3:  [46, 78] :[SC, HC] [0.08461538461538462, 0.03594771241830065] /location/us_county/county_seat; /location/hud_county_place/county; 
+Qualify Rule 4:  [47, 78] :[SC, HC] [1.0, 0.03594771241830065] /location/us_county/county_seat^-1; /location/hud_county_place/county; 
+Qualify Rule 5:  [78, 79] :[SC, HC] [1.0, 0.058823529411764705] /location/hud_county_place/county; /location/hud_county_place/county^-1; 
+Rule 6:  [42, 78] :[SC, HC] [0.4528301886792453, 0.0784313725490196] /location/location/adjoin_s./location/adjoining_relationship/adjoins; /location/hud_county_place/county; 
+Qualify Rule 7:  [41, 47] :[SC, HC] [0.7162162162162162, 0.3464052287581699] /location/hud_county_place/place^-1; /location/us_county/county_seat^-1; 
+Rule 8:  [47, 52] :[SC, HC] [0.2, 0.0032679738562091504] /location/us_county/county_seat^-1; /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division; 
+Qualify Rule 9:  [40, 78] :[SC, HC] [1.0, 0.8921568627450981] /location/hud_county_place/place; /location/hud_county_place/county; 
+Qualify Rule 10:  [41, 52] :[SC, HC] [0.5348837209302325, 0.3006535947712418] /location/hud_county_place/place^-1; /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division; 
+Qualify Rule 11:  [41, 78] :[SC, HC] [1.0, 0.8921568627450981] /location/hud_county_place/place^-1; /location/hud_county_place/county; 
+Rule 12:  [9, 78] :[SC, HC] [0.015625, 0.00980392156862745] /location/location/contains^-1; /location/hud_county_place/county; 
+Rule 13:  [40, 41] :[SC, HC] [0.02524271844660194, 0.042483660130718956] /location/hud_county_place/place; /location/hud_county_place/place^-1; 
+Qualify Rule 14:  [41, 46] :[SC, HC] [0.7272727272727273, 0.026143790849673203] /location/hud_county_place/place^-1; /location/us_county/county_seat; 
+Rule 15:  [43, 78] :[SC, HC] [0.4528301886792453, 0.0784313725490196] /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1; /location/hud_county_place/county; 
+Qualify Rule 16:  [40, 47] :[SC, HC] [0.7162162162162162, 0.3464052287581699] /location/hud_county_place/place; /location/us_county/county_seat^-1; 
+
+Rule_num: 7
+Qualify_Rule_num: 9
+

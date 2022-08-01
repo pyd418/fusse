@@ -1,0 +1,44 @@
+/film/film/story_by
+length: 2, num: 38
+Rule 1:  [100, 114] :[SC, HC] [0.0944206008583691, 0.05392156862745098] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; /film/film/written_by; 
+Rule 2:  [139, 148] :[SC, HC] [0.21428571428571427, 0.03676470588235294] /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; /film/film/story_by; 
+Rule 3:  [212, 105] :[SC, HC] [0.13253012048192772, 0.02696078431372549] /film/film/prequel; /film/director/film^-1; 
+Rule 4:  [101, 134] :[SC, HC] [0.03571428571428571, 0.014705882352941176] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; /film/film/executive_produced_by; 
+Rule 5:  [100, 105] :[SC, HC] [0.026785714285714284, 0.014705882352941176] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; /film/director/film^-1; 
+Rule 6:  [212, 114] :[SC, HC] [0.2553191489361702, 0.058823529411764705] /film/film/prequel; /film/film/written_by; 
+Rule 7:  [100, 14] :[SC, HC] [0.013959390862944163, 0.02696078431372549] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 8:  [213, 51] :[SC, HC] [0.01327433628318584, 0.014705882352941176] /film/film/prequel^-1; /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 9:  [114, 4] :[SC, HC] [0.012915129151291513, 0.03431372549019608] /film/film/written_by; /award/award_winner/awards_won./award/award_honor/award_winner; 
+Rule 10:  [213, 134] :[SC, HC] [0.09433962264150944, 0.024509803921568627] /film/film/prequel^-1; /film/film/executive_produced_by; 
+Rule 11:  [212, 134] :[SC, HC] [0.09900990099009901, 0.024509803921568627] /film/film/prequel; /film/film/executive_produced_by; 
+Rule 12:  [101, 14] :[SC, HC] [0.012300123001230012, 0.024509803921568627] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 13:  [100, 134] :[SC, HC] [0.04, 0.01715686274509804] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; /film/film/executive_produced_by; 
+Rule 14:  [213, 105] :[SC, HC] [0.0641025641025641, 0.012254901960784314] /film/film/prequel^-1; /film/director/film^-1; 
+Rule 15:  [100, 148] :[SC, HC] [0.2857142857142857, 0.08333333333333333] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; /film/film/story_by; 
+Rule 16:  [212, 90] :[SC, HC] [0.05263157894736842, 0.014705882352941176] /film/film/prequel; /film/film/produced_by; 
+Rule 17:  [213, 114] :[SC, HC] [0.14814814814814814, 0.029411764705882353] /film/film/prequel^-1; /film/film/written_by; 
+Rule 18:  [139, 14] :[SC, HC] [0.011570247933884297, 0.01715686274509804] /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 19:  [101, 148] :[SC, HC] [0.2857142857142857, 0.08333333333333333] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; /film/film/story_by; 
+Rule 20:  [148, 4] :[SC, HC] [0.10818713450292397, 0.09068627450980392] /film/film/story_by; /award/award_winner/awards_won./award/award_honor/award_winner; 
+Rule 21:  [138, 114] :[SC, HC] [0.06962025316455696, 0.02696078431372549] /award/award_winning_work/awards_won./award/award_honor/honored_for; /film/film/written_by; 
+Rule 22:  [213, 14] :[SC, HC] [0.02564102564102564, 0.012254901960784314] /film/film/prequel^-1; /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 23:  [212, 51] :[SC, HC] [0.028397565922920892, 0.03431372549019608] /film/film/prequel; /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 24:  [114, 11] :[SC, HC] [0.012121212121212121, 0.06372549019607843] /film/film/written_by; /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1; 
+Rule 25:  [213, 90] :[SC, HC] [0.04201680672268908, 0.012254901960784314] /film/film/prequel^-1; /film/film/produced_by; 
+Rule 26:  [148, 10] :[SC, HC] [0.05574912891986063, 0.0784313725490196] /film/film/story_by; /award/award_nominee/award_nominations./award/award_nomination/award_nominee; 
+Rule 27:  [138, 148] :[SC, HC] [0.2054794520547945, 0.03676470588235294] /award/award_winning_work/awards_won./award/award_honor/honored_for; /film/film/story_by; 
+Rule 28:  [114, 10] :[SC, HC] [0.014611872146118721, 0.0784313725490196] /film/film/written_by; /award/award_nominee/award_nominations./award/award_nomination/award_nominee; 
+Rule 29:  [101, 114] :[SC, HC] [0.09523809523809523, 0.05392156862745098] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; /film/film/written_by; 
+Qualify Rule 30:  [213, 148] :[SC, HC] [0.5168539325842697, 0.11274509803921569] /film/film/prequel^-1; /film/film/story_by; 
+Rule 31:  [101, 105] :[SC, HC] [0.027777777777777776, 0.014705882352941176] /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; /film/director/film^-1; 
+Rule 32:  [114, 5] :[SC, HC] [0.011850501367365542, 0.031862745098039214] /film/film/written_by; /award/award_winner/awards_won./award/award_honor/award_winner^-1; 
+Rule 33:  [148, 11] :[SC, HC] [0.05536332179930796, 0.0784313725490196] /film/film/story_by; /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1; 
+Rule 34:  [105, 4] :[SC, HC] [0.01015228426395939, 0.029411764705882353] /film/director/film^-1; /award/award_winner/awards_won./award/award_honor/award_winner; 
+Rule 35:  [212, 14] :[SC, HC] [0.037037037037037035, 0.0196078431372549] /film/film/prequel; /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 36:  [148, 5] :[SC, HC] [0.10662824207492795, 0.09068627450980392] /film/film/story_by; /award/award_winner/awards_won./award/award_honor/award_winner^-1; 
+Qualify Rule 37:  [212, 148] :[SC, HC] [0.5411764705882353, 0.11274509803921569] /film/film/prequel; /film/film/story_by; 
+Rule 38:  [139, 114] :[SC, HC] [0.0718954248366013, 0.02696078431372549] /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; /film/film/written_by; 
+
+Rule_num: 36
+Qualify_Rule_num: 2
+

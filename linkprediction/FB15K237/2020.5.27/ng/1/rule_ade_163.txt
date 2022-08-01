@@ -1,0 +1,10 @@
+/time/event/locations
+length: 2, num: 4
+Qualify Rule 0:  [128, 144] :[SC, HC] [1.0, 0.010126582278481013]  /time/event/locations;  /location/us_county/county_seat; 
+Rule 1:  [128, 175] :[SC, HC] [0.029850746268656716, 0.005063291139240506]  /time/event/locations;  /location/location/partially_contains^-1; 
+Qualify Rule 2:  [128, 180] :[SC, HC] [0.6428571428571429, 0.02278481012658228]  /time/event/locations;  /dataworld/gardening_hint/split_to; 
+Rule 3:  [128, 166] :[SC, HC] [0.025380710659898477, 0.012658227848101266]  /time/event/locations;  /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 2
+

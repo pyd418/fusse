@@ -1,0 +1,29 @@
+/location/country/form_of_government
+length: 2, num: 23
+Rule 0:  [159, 103] :[SC, HC] [0.27167630057803466, 0.1441717791411043]  /location/statistical_region/places_imported_from./location/imports_and_exports/imported_from^-1;  /government/form_of_government/countries^-1; 
+Qualify Rule 1:  [95, 0] :[SC, HC] [0.8571428571428571, 0.018404907975460124]  /dataworld/gardening_hint/split_to^-1;  /location/country/form_of_government; 
+Qualify Rule 2:  [355, 0] :[SC, HC] [0.5, 0.006134969325153374]  /location/administrative_division/first_level_division_of^-1;  /location/country/form_of_government; 
+Rule 3:  [94, 0] :[SC, HC] [0.4117647058823529, 0.02147239263803681]  /dataworld/gardening_hint/split_to;  /location/country/form_of_government; 
+Rule 4:  [4, 103] :[SC, HC] [0.2807017543859649, 0.147239263803681]  /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to;  /government/form_of_government/countries^-1; 
+Qualify Rule 5:  [96, 103] :[SC, HC] [0.9375, 0.046012269938650305]  /location/country/administrative_divisions;  /government/form_of_government/countries^-1; 
+Rule 6:  [19, 103] :[SC, HC] [0.039603960396039604, 0.012269938650306749]  /location/location/containedby^-1;  /government/form_of_government/countries^-1; 
+Qualify Rule 7:  [96, 0] :[SC, HC] [0.9333333333333333, 0.04294478527607362]  /location/country/administrative_divisions;  /location/country/form_of_government; 
+Qualify Rule 8:  [95, 103] :[SC, HC] [0.625, 0.015337423312883436]  /dataworld/gardening_hint/split_to^-1;  /government/form_of_government/countries^-1; 
+Rule 9:  [158, 0] :[SC, HC] [0.32167832167832167, 0.1411042944785276]  /location/statistical_region/places_imported_from./location/imports_and_exports/imported_from;  /location/country/form_of_government; 
+Rule 10:  [5, 103] :[SC, HC] [0.2922077922077922, 0.13803680981595093]  /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to^-1;  /government/form_of_government/countries^-1; 
+Rule 11:  [268, 103] :[SC, HC] [0.21694915254237288, 0.19631901840490798]  /military/military_combatant/military_conflicts./military/military_combatant_group/combatants;  /government/form_of_government/countries^-1; 
+Rule 12:  [98, 103] :[SC, HC] [0.3125, 0.4601226993865031]  /location/location/adjoin_s./location/adjoining_relationship/adjoins;  /government/form_of_government/countries^-1; 
+Rule 13:  [294, 103] :[SC, HC] [0.011235955056179775, 0.003067484662576687]  /time/event/locations;  /government/form_of_government/countries^-1; 
+Rule 14:  [268, 0] :[SC, HC] [0.2264808362369338, 0.19938650306748465]  /military/military_combatant/military_conflicts./military/military_combatant_group/combatants;  /location/country/form_of_government; 
+Rule 15:  [226, 0] :[SC, HC] [0.03245749613601236, 0.06441717791411043]  /location/administrative_division/country;  /location/country/form_of_government; 
+Rule 16:  [107, 103] :[SC, HC] [0.3, 0.009202453987730062]  /base/aareas/schema/administrative_area/administrative_parent^-1;  /government/form_of_government/countries^-1; 
+Rule 17:  [8, 103] :[SC, HC] [0.32432432432432434, 0.0736196319018405]  /military/military_combatant/force_deployments./military/force_strength/combatant;  /government/form_of_government/countries^-1; 
+Rule 18:  [158, 103] :[SC, HC] [0.2838709677419355, 0.13496932515337423]  /location/statistical_region/places_imported_from./location/imports_and_exports/imported_from;  /government/form_of_government/countries^-1; 
+Rule 19:  [99, 103] :[SC, HC] [0.30603448275862066, 0.43558282208588955]  /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1;  /government/form_of_government/countries^-1; 
+Rule 20:  [269, 0] :[SC, HC] [0.22916666666666666, 0.20245398773006135]  /military/military_combatant/military_conflicts./military/military_combatant_group/combatants^-1;  /location/country/form_of_government; 
+Rule 21:  [226, 103] :[SC, HC] [0.024844720496894408, 0.06134969325153374]  /location/administrative_division/country;  /government/form_of_government/countries^-1; 
+Rule 22:  [99, 0] :[SC, HC] [0.3054945054945055, 0.4263803680981595]  /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1;  /location/country/form_of_government; 
+
+After duplicate elimination, Rule_num: 18
+After duplicate elimination, Qualify_Rule_num: 5
+

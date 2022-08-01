@@ -1,0 +1,13 @@
+/organization/organization_member/member_of./organization/organization_membership/organization
+length: 2, num: 7
+Rule 1:  [29, 32] :[SC, HC] [0.034482758620689655, 0.0022701475595913734] /influence/influence_node/influenced_by^-1; /organization/organization_member/member_of./organization/organization_membership/organization; 
+Qualify Rule 2:  [32, 189] :[SC, HC] [1.0, 0.0011350737797956867] /organization/organization_member/member_of./organization/organization_membership/organization; /education/educational_institution/campuses^-1; 
+Qualify Rule 3:  [32, 109] :[SC, HC] [1.0, 0.0011350737797956867] /organization/organization_member/member_of./organization/organization_membership/organization; /education/educational_institution_campus/educational_institution^-1; 
+Qualify Rule 4:  [32, 108] :[SC, HC] [1.0, 0.0011350737797956867] /organization/organization_member/member_of./organization/organization_membership/organization; /education/educational_institution_campus/educational_institution; 
+Rule 5:  [200, 227] :[SC, HC] [0.1715686274509804, 0.039727582292849034] /military/military_combatant/military_conflicts./military/military_combatant_group/combatants; /user/ktrueman/default_domain/international_organization/member_states^-1; 
+Rule 6:  [28, 32] :[SC, HC] [0.01694915254237288, 0.0022701475595913734] /influence/influence_node/influenced_by; /organization/organization_member/member_of./organization/organization_membership/organization; 
+Qualify Rule 7:  [32, 188] :[SC, HC] [1.0, 0.0011350737797956867] /organization/organization_member/member_of./organization/organization_membership/organization; /education/educational_institution/campuses; 
+
+Rule_num: 3
+Qualify_Rule_num: 4
+

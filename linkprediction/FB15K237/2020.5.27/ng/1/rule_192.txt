@@ -1,0 +1,6 @@
+/people/person/spouse_s./people/marriage/spouse
+length: 2, num: 0
+
+Rule_num: 0
+Qualify_Rule_num: 0
+

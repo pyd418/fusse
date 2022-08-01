@@ -1,0 +1,14 @@
+/award/award_category/nominees./award/award_nomination/nominated_for
+length: 2, num: 8
+Qualify Rule 1:  [6, 180] :[SC, HC] [0.8070175438596491, 0.004504945646851435] /award/award_category/nominees./award/award_nomination/nominated_for; /dataworld/gardening_hint/split_to; 
+Rule 2:  [6, 124] :[SC, HC] [0.29124126813541107, 0.05308001175203212] /award/award_category/nominees./award/award_nomination/nominated_for; /award/award_winning_work/awards_won./award/award_honor/honored_for; 
+Rule 3:  [6, 93] :[SC, HC] [0.24761176920137562, 0.06346097345999413] /award/award_category/nominees./award/award_nomination/nominated_for; /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 4:  [6, 125] :[SC, HC] [0.28913738019169327, 0.053177945353050635] /award/award_category/nominees./award/award_nomination/nominated_for; /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; 
+Rule 5:  [6, 182] :[SC, HC] [0.3177257525083612, 0.018607384193516794] /award/award_category/nominees./award/award_nomination/nominated_for; /film/film/prequel; 
+Rule 6:  [6, 92] :[SC, HC] [0.2545454545454545, 0.06306923905592009] /award/award_category/nominees./award/award_nomination/nominated_for; /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 7:  [6, 183] :[SC, HC] [0.2619047619047619, 0.01831358339046127] /award/award_category/nominees./award/award_nomination/nominated_for; /film/film/prequel^-1; 
+Qualify Rule 8:  [6, 181] :[SC, HC] [0.9574468085106383, 0.004407012045832925] /award/award_category/nominees./award/award_nomination/nominated_for; /dataworld/gardening_hint/split_to^-1; 
+
+Rule_num: 6
+Qualify_Rule_num: 2
+

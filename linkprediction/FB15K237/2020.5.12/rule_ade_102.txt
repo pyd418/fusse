@@ -1,0 +1,41 @@
+/film/director/film
+length: 2, num: 35
+Rule 0:  [181, 169] :[SC, HC] [0.2857142857142857, 0.002306805074971165]  /influence/influence_node/peers./influence/peer_relationship/peers^-1;  /film/film/edited_by^-1; 
+Rule 1:  [85, 93] :[SC, HC] [0.0399002493765586, 0.01845444059976932]  /film/film/produced_by^-1;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 2:  [55, 44] :[SC, HC] [0.007111722872218399, 0.03575547866205306]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for; 
+Rule 3:  [85, 92] :[SC, HC] [0.045112781954887216, 0.020761245674740483]  /film/film/produced_by^-1;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 4:  [107, 206] :[SC, HC] [0.2345679012345679, 0.02191464821222607]  /film/film/written_by^-1;  /film/film/prequel; 
+Rule 5:  [44, 206] :[SC, HC] [0.04424778761061947, 0.02306805074971165]  /award/award_nominee/award_nominations./award/award_nomination/nominated_for;  /film/film/prequel; 
+Rule 6:  [44, 131] :[SC, HC] [0.00935251798561151, 0.014994232987312572]  /award/award_nominee/award_nominations./award/award_nomination/nominated_for;  /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; 
+Rule 7:  [141, 130] :[SC, HC] [0.04285714285714286, 0.0034602076124567475]  /film/film/story_by^-1;  /award/award_winning_work/awards_won./award/award_honor/honored_for; 
+Rule 8:  [125, 207] :[SC, HC] [0.0594059405940594, 0.006920415224913495]  /film/film/executive_produced_by^-1;  /film/film/prequel^-1; 
+Rule 9:  [163, 206] :[SC, HC] [0.12121212121212122, 0.00461361014994233]  /film/film/cinematography^-1;  /film/film/prequel; 
+Rule 10:  [157, 11] :[SC, HC] [0.09411764705882353, 0.00922722029988466]  /people/person/sibling_s./people/sibling_relationship/sibling^-1;  /award/award_winning_work/awards_won./award/award_honor/award_winner^-1; 
+Rule 11:  [85, 206] :[SC, HC] [0.11764705882352941, 0.016147635524798153]  /film/film/produced_by^-1;  /film/film/prequel; 
+Rule 12:  [6, 85] :[SC, HC] [0.018518518518518517, 0.14186851211072665]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee;  /film/film/produced_by^-1; 
+Rule 13:  [157, 44] :[SC, HC] [0.06557377049180328, 0.01384083044982699]  /people/person/sibling_s./people/sibling_relationship/sibling^-1;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for; 
+Rule 14:  [107, 92] :[SC, HC] [0.03896103896103896, 0.010380622837370242]  /film/film/written_by^-1;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 15:  [6, 141] :[SC, HC] [0.025951557093425604, 0.01730103806228374]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee;  /film/film/story_by^-1; 
+Rule 16:  [107, 130] :[SC, HC] [0.0457516339869281, 0.008073817762399077]  /film/film/written_by^-1;  /award/award_winning_work/awards_won./award/award_honor/honored_for; 
+Rule 17:  [141, 206] :[SC, HC] [0.12359550561797752, 0.012687427912341407]  /film/film/story_by^-1;  /film/film/prequel; 
+Rule 18:  [107, 207] :[SC, HC] [0.22340425531914893, 0.02422145328719723]  /film/film/written_by^-1;  /film/film/prequel^-1; 
+Rule 19:  [107, 205] :[SC, HC] [0.3333333333333333, 0.0011534025374855825]  /film/film/written_by^-1;  /dataworld/gardening_hint/split_to^-1; 
+Rule 20:  [125, 206] :[SC, HC] [0.04716981132075472, 0.0057670126874279125]  /film/film/executive_produced_by^-1;  /film/film/prequel; 
+Rule 21:  [44, 92] :[SC, HC] [0.018790369935408103, 0.03690888119953864]  /award/award_nominee/award_nominations./award/award_nomination/nominated_for;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 22:  [54, 44] :[SC, HC] [0.006352087114337568, 0.03229527104959631]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for; 
+Rule 23:  [6, 125] :[SC, HC] [0.009895547003848268, 0.04152249134948097]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee;  /film/film/executive_produced_by^-1; 
+Rule 24:  [96, 92] :[SC, HC] [0.17592592592592593, 0.04382929642445214]  /film/director/film;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 25:  [7, 96] :[SC, HC] [0.00984009840098401, 0.02768166089965398]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1;  /film/director/film; 
+Qualify Rule 26:  [96, 206] :[SC, HC] [0.5128205128205128, 0.0461361014994233]  /film/director/film;  /film/film/prequel; 
+Rule 27:  [7, 107] :[SC, HC] [0.027853881278538814, 0.07035755478662054]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1;  /film/film/written_by^-1; 
+Rule 28:  [5, 11] :[SC, HC] [0.007452754857599149, 0.06459054209919261]  /award/award_winner/awards_won./award/award_honor/award_winner^-1;  /award/award_winning_work/awards_won./award/award_honor/award_winner^-1; 
+Rule 29:  [5, 85] :[SC, HC] [0.021821631878557873, 0.07958477508650519]  /award/award_winner/awards_won./award/award_honor/award_winner^-1;  /film/film/produced_by^-1; 
+Rule 30:  [6, 107] :[SC, HC] [0.033566433566433566, 0.08304498269896193]  /award/award_nominee/award_nominations./award/award_nomination/award_nominee;  /film/film/written_by^-1; 
+Rule 31:  [4, 11] :[SC, HC] [0.007233986584243062, 0.06343713956170703]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner^-1; 
+Rule 32:  [4, 85] :[SC, HC] [0.021419437340153454, 0.07727797001153403]  /award/award_winner/awards_won./award/award_honor/award_winner;  /film/film/produced_by^-1; 
+Rule 33:  [4, 141] :[SC, HC] [0.02881844380403458, 0.011534025374855825]  /award/award_winner/awards_won./award/award_honor/award_winner;  /film/film/story_by^-1; 
+Rule 34:  [96, 207] :[SC, HC] [0.46987951807228917, 0.04498269896193772]  /film/director/film;  /film/film/prequel^-1; 
+
+After duplicate elimination, Rule_num: 34
+After duplicate elimination, Qualify_Rule_num: 1
+

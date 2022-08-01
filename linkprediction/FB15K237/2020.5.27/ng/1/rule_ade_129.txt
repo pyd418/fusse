@@ -1,0 +1,14 @@
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+length: 2, num: 8
+Rule 0:  [16, 74] :[SC, HC] [0.09333333333333334, 0.03211009174311927]  /organization/organization_member/member_of./organization/organization_membership/organization;  /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 1:  [109, 112] :[SC, HC] [0.09803921568627451, 0.022935779816513763]  /organization/organization/child./organization/organization_relationship/child^-1;  /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Qualify Rule 2:  [17, 74] :[SC, HC] [1.0, 0.0045871559633027525]  /organization/organization_member/member_of./organization/organization_membership/organization^-1;  /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 3:  [2, 74] :[SC, HC] [0.14285714285714285, 0.01834862385321101]  /award/award_winner/awards_won./award/award_honor/award_winner;  /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Qualify Rule 4:  [53, 112] :[SC, HC] [0.7951807228915663, 0.30275229357798167]  /education/educational_institution_campus/educational_institution^-1;  /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Qualify Rule 5:  [17, 110] :[SC, HC] [1.0, 0.009174311926605505]  /organization/organization_member/member_of./organization/organization_membership/organization^-1;  /business/business_operation/assets./measurement_unit/dated_money_value/currency; 
+Qualify Rule 6:  [52, 74] :[SC, HC] [1.0, 0.3623853211009174]  /education/educational_institution_campus/educational_institution;  /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Qualify Rule 7:  [17, 112] :[SC, HC] [1.0, 0.013761467889908258]  /organization/organization_member/member_of./organization/organization_membership/organization^-1;  /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+
+After duplicate elimination, Rule_num: 3
+After duplicate elimination, Qualify_Rule_num: 5
+

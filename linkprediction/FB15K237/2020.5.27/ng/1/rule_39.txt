@@ -1,0 +1,26 @@
+/people/deceased_person/place_of_death
+length: 2, num: 20
+Qualify Rule 1:  [54, 180] :[SC, HC] [0.9047619047619048, 0.02513227513227513] /people/deceased_person/place_of_death; /base/aareas/schema/administrative_area/capital; 
+Qualify Rule 2:  [54, 242] :[SC, HC] [0.9090909090909091, 0.013227513227513227] /people/deceased_person/place_of_death; /location/us_county/county_seat; 
+Rule 3:  [31, 36] :[SC, HC] [0.011648745519713262, 0.017195767195767195] /influence/influence_node/influenced_by^-1; /people/person/place_of_birth; 
+Rule 4:  [54, 143] :[SC, HC] [0.1111111111111111, 0.0013227513227513227] /people/deceased_person/place_of_death; /location/hud_county_place/county^-1; 
+Qualify Rule 5:  [54, 78] :[SC, HC] [1.0, 0.5740740740740741] /people/deceased_person/place_of_death; /location/hud_county_place/place; 
+Rule 6:  [54, 181] :[SC, HC] [0.15702479338842976, 0.02513227513227513] /people/deceased_person/place_of_death; /base/aareas/schema/administrative_area/capital^-1; 
+Rule 7:  [31, 208] :[SC, HC] [0.016666666666666666, 0.0026455026455026454] /influence/influence_node/influenced_by^-1; /music/artist/origin; 
+Rule 8:  [36, 79] :[SC, HC] [0.014581734458940905, 0.02513227513227513] /people/person/place_of_birth; /location/hud_county_place/place^-1; 
+Rule 9:  [54, 243] :[SC, HC] [0.15873015873015872, 0.013227513227513227] /people/deceased_person/place_of_death; /location/us_county/county_seat^-1; 
+Rule 10:  [54, 297] :[SC, HC] [0.2, 0.0013227513227513227] /people/deceased_person/place_of_death; /dataworld/gardening_hint/split_to^-1; 
+Rule 11:  [6, 54] :[SC, HC] [0.06476683937823834, 0.03306878306878307] /award/award_winner/awards_won./award/award_honor/award_winner; /people/deceased_person/place_of_death; 
+Rule 12:  [31, 54] :[SC, HC] [0.03945371775417299, 0.03439153439153439] /influence/influence_node/influenced_by^-1; /people/deceased_person/place_of_death; 
+Rule 13:  [13, 54] :[SC, HC] [0.043478260869565216, 0.03968253968253968] /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1; /people/deceased_person/place_of_death; 
+Rule 14:  [31, 88] :[SC, HC] [0.013771657041314972, 0.041005291005291] /influence/influence_node/influenced_by^-1; /people/person/places_lived./people/place_lived/location; 
+Qualify Rule 15:  [54, 79] :[SC, HC] [1.0, 0.5740740740740741] /people/deceased_person/place_of_death; /location/hud_county_place/place^-1; 
+Rule 16:  [36, 78] :[SC, HC] [0.014581734458940905, 0.02513227513227513] /people/person/place_of_birth; /location/hud_county_place/place; 
+Rule 17:  [54, 296] :[SC, HC] [0.16666666666666666, 0.0013227513227513227] /people/deceased_person/place_of_death; /dataworld/gardening_hint/split_to; 
+Rule 18:  [12, 54] :[SC, HC] [0.045925925925925926, 0.041005291005291] /award/award_nominee/award_nominations./award/award_nomination/award_nominee; /people/deceased_person/place_of_death; 
+Rule 19:  [30, 54] :[SC, HC] [0.029661016949152543, 0.037037037037037035] /influence/influence_node/influenced_by; /people/deceased_person/place_of_death; 
+Rule 20:  [7, 54] :[SC, HC] [0.06201550387596899, 0.031746031746031744] /award/award_winner/awards_won./award/award_honor/award_winner^-1; /people/deceased_person/place_of_death; 
+
+Rule_num: 16
+Qualify_Rule_num: 4
+

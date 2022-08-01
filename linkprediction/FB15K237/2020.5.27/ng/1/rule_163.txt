@@ -1,0 +1,15 @@
+/time/event/locations
+length: 2, num: 9
+Qualify Rule 1:  [128, 144] :[SC, HC] [1.0, 0.010126582278481013] /time/event/locations; /location/us_county/county_seat; 
+Rule 2:  [128, 175] :[SC, HC] [0.029850746268656716, 0.005063291139240506] /time/event/locations; /location/location/partially_contains^-1; 
+Qualify Rule 3:  [72, 128] :[SC, HC] [1.0, 0.005063291139240506] /base/culturalevent/event/entity_involved; /time/event/locations; 
+Qualify Rule 4:  [128, 180] :[SC, HC] [0.6428571428571429, 0.02278481012658228] /time/event/locations; /dataworld/gardening_hint/split_to; 
+Qualify Rule 5:  [128, 181] :[SC, HC] [0.6428571428571429, 0.02278481012658228] /time/event/locations; /dataworld/gardening_hint/split_to^-1; 
+Rule 6:  [128, 166] :[SC, HC] [0.025380710659898477, 0.012658227848101266] /time/event/locations; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; 
+Rule 7:  [128, 145] :[SC, HC] [0.04081632653061224, 0.010126582278481013] /time/event/locations; /location/us_county/county_seat^-1; 
+Rule 8:  [128, 174] :[SC, HC] [0.013157894736842105, 0.005063291139240506] /time/event/locations; /location/location/partially_contains; 
+Rule 9:  [128, 167] :[SC, HC] [0.02717391304347826, 0.012658227848101266] /time/event/locations; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to^-1; 
+
+Rule_num: 5
+Qualify_Rule_num: 4
+

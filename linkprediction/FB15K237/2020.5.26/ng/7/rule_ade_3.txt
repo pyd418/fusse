@@ -1,0 +1,140 @@
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 49] :[SC, HC] [0.048, 0.0014201183431952662]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 1:  [4, 149] :[SC, HC] [0.014763779527559055, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant^-1; 
+Rule 2:  [4, 221] :[SC, HC] [0.08059384941675504, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse^-1; 
+Rule 3:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 4:  [4, 201] :[SC, HC] [0.06172839506172839, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling^-1; 
+Rule 5:  [4, 5] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner^-1; 
+Rule 6:  [4, 12] :[SC, HC] [0.37142857142857144, 0.0015384615384615385]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 7:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 8:  [4, 116] :[SC, HC] [0.32367149758454106, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 9:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+Rule 10:  [4, 189] :[SC, HC] [0.07312925170068027, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity^-1; 
+Rule 11:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+Rule 12:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+Rule 13:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 4] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner; 
+Rule 1:  [4, 148] :[SC, HC] [0.013966480446927373, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant; 
+Rule 2:  [4, 200] :[SC, HC] [0.0625, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling; 
+Rule 3:  [4, 220] :[SC, HC] [0.08379272326350606, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse; 
+Rule 4:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 5:  [4, 117] :[SC, HC] [0.3031674208144796, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 6:  [4, 189] :[SC, HC] [0.07312925170068027, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity^-1; 
+Rule 7:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 8:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+Rule 9:  [4, 12] :[SC, HC] [0.37142857142857144, 0.0015384615384615385]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 10:  [4, 49] :[SC, HC] [0.048, 0.0014201183431952662]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 11:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+Rule 12:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+Rule 13:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 221] :[SC, HC] [0.08059384941675504, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse^-1; 
+Rule 1:  [4, 4] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner; 
+Rule 2:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 3:  [4, 200] :[SC, HC] [0.0625, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling; 
+Rule 4:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 5:  [4, 116] :[SC, HC] [0.32367149758454106, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 6:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+Rule 7:  [4, 49] :[SC, HC] [0.048, 0.0014201183431952662]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 8:  [4, 188] :[SC, HC] [0.0763765541740675, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity; 
+Rule 9:  [4, 12] :[SC, HC] [0.37142857142857144, 0.0015384615384615385]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 10:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+Rule 11:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+Rule 12:  [4, 148] :[SC, HC] [0.013966480446927373, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant; 
+Rule 13:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 149] :[SC, HC] [0.014763779527559055, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant^-1; 
+Rule 1:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 2:  [4, 12] :[SC, HC] [0.37142857142857144, 0.0015384615384615385]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 3:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+Rule 4:  [4, 49] :[SC, HC] [0.048, 0.0014201183431952662]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 5:  [4, 5] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner^-1; 
+Rule 6:  [4, 117] :[SC, HC] [0.3031674208144796, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 7:  [4, 189] :[SC, HC] [0.07312925170068027, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity^-1; 
+Rule 8:  [4, 221] :[SC, HC] [0.08059384941675504, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse^-1; 
+Rule 9:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+Rule 10:  [4, 201] :[SC, HC] [0.06172839506172839, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling^-1; 
+Rule 11:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+Rule 12:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 13:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 5] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner^-1; 
+Rule 1:  [4, 49] :[SC, HC] [0.048, 0.0014201183431952662]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 2:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+Rule 3:  [4, 221] :[SC, HC] [0.08059384941675504, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse^-1; 
+Rule 4:  [4, 149] :[SC, HC] [0.014763779527559055, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant^-1; 
+Rule 5:  [4, 201] :[SC, HC] [0.06172839506172839, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling^-1; 
+Rule 6:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 7:  [4, 189] :[SC, HC] [0.07312925170068027, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity^-1; 
+Rule 8:  [4, 117] :[SC, HC] [0.3031674208144796, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 9:  [4, 12] :[SC, HC] [0.37142857142857144, 0.0015384615384615385]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 10:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+Rule 11:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 12:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+Rule 13:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+Rule 1:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+Rule 2:  [4, 221] :[SC, HC] [0.08059384941675504, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse^-1; 
+Rule 3:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 4:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 5:  [4, 49] :[SC, HC] [0.048, 0.0014201183431952662]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominee/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 6:  [4, 12] :[SC, HC] [0.37142857142857144, 0.0015384615384615385]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winning_work/awards_won./award/award_honor/award_winner; 
+Rule 7:  [4, 189] :[SC, HC] [0.07312925170068027, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity^-1; 
+Rule 8:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+Rule 9:  [4, 4] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner; 
+Rule 10:  [4, 149] :[SC, HC] [0.014763779527559055, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant^-1; 
+Rule 11:  [4, 200] :[SC, HC] [0.0625, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling; 
+Rule 12:  [4, 116] :[SC, HC] [0.32367149758454106, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for; 
+Rule 13:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+
+/award/award_winner/awards_won./award/award_honor/award_winner
+length: 2, num: 14
+Rule 0:  [4, 144] :[SC, HC] [0.10708661417322834, 0.008047337278106508]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+Rule 1:  [4, 189] :[SC, HC] [0.07312925170068027, 0.005088757396449704]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity^-1; 
+Rule 2:  [4, 61] :[SC, HC] [0.09749824643441665, 0.049349112426035506]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; 
+Rule 3:  [60, 145] :[SC, HC] [0.028605482717520857, 0.0028402366863905324]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 4:  [4, 200] :[SC, HC] [0.0625, 0.001183431952662722]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/sibling_s./people/sibling_relationship/sibling; 
+Rule 5:  [4, 117] :[SC, HC] [0.3031674208144796, 0.007928994082840236]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for^-1; 
+Rule 6:  [4, 220] :[SC, HC] [0.08379272326350606, 0.008994082840236686]  /award/award_winner/awards_won./award/award_honor/award_winner;  /people/person/spouse_s./people/marriage/spouse; 
+Rule 7:  [4, 5] :[SC, HC] [0.27406223279675823, 0.8724260355029586]  /award/award_winner/awards_won./award/award_honor/award_winner;  /award/award_winner/awards_won./award/award_honor/award_winner^-1; 
+Rule 8:  [4, 145] :[SC, HC] [0.10586319218241043, 0.007692307692307693]  /award/award_winner/awards_won./award/award_honor/award_winner;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1; 
+Rule 9:  [4, 93] :[SC, HC] [0.03770321687997233, 0.012899408284023669]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; 
+Rule 10:  [4, 92] :[SC, HC] [0.03570247933884298, 0.012781065088757397]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 11:  [4, 60] :[SC, HC] [0.10052531041069723, 0.04982248520710059]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/friendship./base/popstra/friendship/participant; 
+Rule 12:  [4, 149] :[SC, HC] [0.014763779527559055, 0.0017751479289940828]  /award/award_winner/awards_won./award/award_honor/award_winner;  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant^-1; 
+Rule 13:  [60, 144] :[SC, HC] [0.024881516587677725, 0.002485207100591716]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant;  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend; 
+
+After duplicate elimination, Rule_num: 14
+After duplicate elimination, Qualify_Rule_num: 0
+

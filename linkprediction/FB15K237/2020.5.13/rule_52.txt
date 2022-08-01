@@ -1,0 +1,101 @@
+/music/genre/parent_genre
+length: 2, num: 3
+Rule 1:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 2:  [6, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /influence/influence_node/influenced_by; 
+Rule 3:  [7, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /influence/influence_node/influenced_by; /influence/influence_node/influenced_by; 
+
+Rule_num: 3
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 7
+Rule 1:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre; 
+Rule 2:  [2, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre^-1; 
+Rule 3:  [3, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre; 
+Rule 4:  [3, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre^-1; 
+Rule 5:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 6:  [12, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre^-1; 
+Rule 7:  [13, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre^-1; /music/genre/parent_genre^-1; 
+
+Rule_num: 7
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 7
+Rule 1:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre; 
+Rule 2:  [2, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre^-1; 
+Rule 3:  [3, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre; 
+Rule 4:  [3, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre^-1; 
+Rule 5:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 6:  [12, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre^-1; 
+Rule 7:  [13, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre^-1; /music/genre/parent_genre^-1; 
+
+Rule_num: 7
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 3
+Rule 1:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 2:  [6, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /influence/influence_node/influenced_by; 
+Rule 3:  [7, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /influence/influence_node/influenced_by; /influence/influence_node/influenced_by; 
+
+Rule_num: 3
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 3
+Rule 1:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 2:  [6, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /influence/influence_node/influenced_by; 
+Rule 3:  [7, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /influence/influence_node/influenced_by; /influence/influence_node/influenced_by; 
+
+Rule_num: 3
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 3
+Rule 1:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 2:  [6, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /influence/influence_node/influenced_by; 
+Rule 3:  [7, 7] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /influence/influence_node/influenced_by; /influence/influence_node/influenced_by; 
+
+Rule_num: 3
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 7
+Rule 1:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre; 
+Rule 2:  [2, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre^-1; 
+Rule 3:  [3, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre; 
+Rule 4:  [3, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre^-1; 
+Rule 5:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 6:  [12, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre^-1; 
+Rule 7:  [13, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre^-1; /music/genre/parent_genre^-1; 
+
+Rule_num: 7
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 7
+Rule 1:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre; 
+Rule 2:  [2, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre^-1; 
+Rule 3:  [3, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre; 
+Rule 4:  [3, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre^-1; 
+Rule 5:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 6:  [12, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre^-1; 
+Rule 7:  [13, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre^-1; /music/genre/parent_genre^-1; 
+
+Rule_num: 7
+Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 7
+Rule 1:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre; 
+Rule 2:  [2, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to; /music/genre/parent_genre^-1; 
+Rule 3:  [3, 12] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre; 
+Rule 4:  [3, 13] :[SC, HC] [1.0, 0.003978779840848806] /dataworld/gardening_hint/split_to^-1; /music/genre/parent_genre^-1; 
+Rule 5:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre; 
+Rule 6:  [12, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre; /music/genre/parent_genre^-1; 
+Rule 7:  [13, 13] :[SC, HC] [0.15228426395939088, 0.35809018567639256] /music/genre/parent_genre^-1; /music/genre/parent_genre^-1; 
+
+Rule_num: 7
+Qualify_Rule_num: 0
+

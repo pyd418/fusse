@@ -1,0 +1,12 @@
+/award/award_ceremony/awards_presented./award/award_honor/award_winner
+length: 2, num: 6
+Rule 1:  [14, 37] :[SC, HC] [0.026377036462373934, 0.011258278145695364] /award/award_ceremony/awards_presented./award/award_honor/award_winner; /people/person/religion; 
+Rule 2:  [14, 93] :[SC, HC] [0.08115183246073299, 0.010264900662251655] /award/award_ceremony/awards_presented./award/award_honor/award_winner; /influence/influence_node/peers./influence/peer_relationship/peers; 
+Rule 3:  [14, 92] :[SC, HC] [0.08244680851063829, 0.010264900662251655] /award/award_ceremony/awards_presented./award/award_honor/award_winner; /people/person/spouse_s./people/marriage/spouse; 
+Rule 4:  [14, 79] :[SC, HC] [0.04054054054054054, 0.002980132450331126] /award/award_ceremony/awards_presented./award/award_honor/award_winner; /government/political_party/politicians_in_this_party./government/political_party_tenure/politician; 
+Rule 5:  [14, 36] :[SC, HC] [0.02687296416938111, 0.010927152317880795] /award/award_ceremony/awards_presented./award/award_honor/award_winner; /base/popstra/celebrity/dated./base/popstra/dated/participant; 
+Rule 6:  [14, 78] :[SC, HC] [0.041474654377880185, 0.002980132450331126] /award/award_ceremony/awards_presented./award/award_honor/award_winner; /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity; 
+
+Rule_num: 6
+Qualify_Rule_num: 0
+

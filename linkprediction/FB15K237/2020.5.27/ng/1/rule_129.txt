@@ -1,0 +1,22 @@
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+length: 2, num: 16
+Rule 1:  [16, 74] :[SC, HC] [0.09333333333333334, 0.03211009174311927] /organization/organization_member/member_of./organization/organization_membership/organization; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 2:  [16, 112] :[SC, HC] [0.08333333333333333, 0.03211009174311927] /organization/organization_member/member_of./organization/organization_membership/organization; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Rule 3:  [109, 112] :[SC, HC] [0.09803921568627451, 0.022935779816513763] /organization/organization/child./organization/organization_relationship/child^-1; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Qualify Rule 4:  [17, 74] :[SC, HC] [1.0, 0.0045871559633027525] /organization/organization_member/member_of./organization/organization_membership/organization^-1; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 5:  [2, 74] :[SC, HC] [0.14285714285714285, 0.01834862385321101] /award/award_winner/awards_won./award/award_honor/award_winner; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 6:  [3, 74] :[SC, HC] [0.15625, 0.022935779816513763] /award/award_winner/awards_won./award/award_honor/award_winner^-1; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Qualify Rule 7:  [53, 112] :[SC, HC] [0.7951807228915663, 0.30275229357798167] /education/educational_institution_campus/educational_institution^-1; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Qualify Rule 8:  [52, 112] :[SC, HC] [0.7951807228915663, 0.30275229357798167] /education/educational_institution_campus/educational_institution; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Rule 9:  [4, 74] :[SC, HC] [0.03225806451612903, 0.0045871559633027525] /award/award_nominee/award_nominations./award/award_nomination/award_nominee; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Qualify Rule 10:  [17, 110] :[SC, HC] [1.0, 0.009174311926605505] /organization/organization_member/member_of./organization/organization_membership/organization^-1; /business/business_operation/assets./measurement_unit/dated_money_value/currency; 
+Qualify Rule 11:  [52, 74] :[SC, HC] [1.0, 0.3623853211009174] /education/educational_institution_campus/educational_institution; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 12:  [5, 112] :[SC, HC] [0.2, 0.0045871559633027525] /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Qualify Rule 13:  [17, 112] :[SC, HC] [1.0, 0.013761467889908258] /organization/organization_member/member_of./organization/organization_membership/organization^-1; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Rule 14:  [5, 74] :[SC, HC] [0.030303030303030304, 0.0045871559633027525] /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+Rule 15:  [108, 112] :[SC, HC] [0.3333333333333333, 0.013761467889908258] /organization/organization/child./organization/organization_relationship/child; /business/business_operation/operating_income./measurement_unit/dated_money_value/currency; 
+Qualify Rule 16:  [53, 74] :[SC, HC] [1.0, 0.3623853211009174] /education/educational_institution_campus/educational_institution^-1; /business/business_operation/revenue./measurement_unit/dated_money_value/currency; 
+
+Rule_num: 9
+Qualify_Rule_num: 7
+

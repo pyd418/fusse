@@ -1,0 +1,21 @@
+20
+0	_derivationally_related_form	1
+1	_derivationally_related_form^-1	1
+2	_instance_hypernym	2
+3	_instance_hypernym^-1	2
+4	_also_see	3
+5	_also_see^-1	3
+6	_member_meronym	4
+7	_member_meronym^-1	4
+8	_synset_domain_topic_of	5
+9	_synset_domain_topic_of^-1	5
+10	_has_part	6
+11	_has_part^-1	6
+12	_member_of_domain_usage	7
+13	_member_of_domain_usage^-1	7
+14	_member_of_domain_region	8
+15	_member_of_domain_region^-1	8
+16	_verb_group	9
+17	_verb_group^-1	9
+18	_similar_to	10
+19	_similar_to^-1	10

@@ -1,0 +1,10 @@
+/award/award_ceremony/awards_presented./award/award_honor/honored_for
+length: 2, num: 4
+Rule 1:  [62, 124] :[SC, HC] [0.075, 0.002932551319648094] /award/award_ceremony/awards_presented./award/award_honor/honored_for; /film/film/prequel; 
+Rule 2:  [62, 79] :[SC, HC] [0.31724137931034485, 0.044965786901270774] /award/award_ceremony/awards_presented./award/award_honor/honored_for; /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; 
+Rule 3:  [62, 78] :[SC, HC] [0.3458646616541353, 0.044965786901270774] /award/award_ceremony/awards_presented./award/award_honor/honored_for; /award/award_winning_work/awards_won./award/award_honor/honored_for; 
+Rule 4:  [62, 125] :[SC, HC] [0.0625, 0.002932551319648094] /award/award_ceremony/awards_presented./award/award_honor/honored_for; /film/film/prequel^-1; 
+
+Rule_num: 4
+Qualify_Rule_num: 0
+

@@ -1,0 +1,8 @@
+/award/award_ceremony/awards_presented./award/award_honor/honored_for
+length: 2, num: 2
+Rule 0:  [62, 124] :[SC, HC] [0.075, 0.002932551319648094]  /award/award_ceremony/awards_presented./award/award_honor/honored_for;  /film/film/prequel; 
+Rule 1:  [62, 79] :[SC, HC] [0.31724137931034485, 0.044965786901270774]  /award/award_ceremony/awards_presented./award/award_honor/honored_for;  /award/award_winning_work/awards_won./award/award_honor/honored_for^-1; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 0
+

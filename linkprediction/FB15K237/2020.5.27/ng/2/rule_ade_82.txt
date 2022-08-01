@@ -1,0 +1,23 @@
+/people/person/religion
+length: 2, num: 17
+Rule 0:  [117, 76] :[SC, HC] [0.18421052631578946, 0.017355371900826446]  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend^-1;  /people/person/religion; 
+Rule 1:  [166, 76] :[SC, HC] [0.38461538461538464, 0.012396694214876033]  /people/person/sibling_s./people/sibling_relationship/sibling;  /people/person/religion; 
+Rule 2:  [121, 76] :[SC, HC] [0.23125, 0.030578512396694214]  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant^-1;  /people/person/religion; 
+Rule 3:  [156, 76] :[SC, HC] [0.056179775280898875, 0.004132231404958678]  /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity;  /people/person/religion; 
+Rule 4:  [184, 76] :[SC, HC] [0.18478260869565216, 0.014049586776859505]  /influence/influence_node/peers./influence/peer_relationship/peers;  /people/person/religion; 
+Rule 5:  [74, 76] :[SC, HC] [0.1331923890063425, 0.05206611570247934]  /base/popstra/celebrity/dated./base/popstra/dated/participant;  /people/person/religion; 
+Rule 6:  [75, 76] :[SC, HC] [0.13598326359832635, 0.05371900826446281]  /base/popstra/celebrity/dated./base/popstra/dated/participant^-1;  /people/person/religion; 
+Rule 7:  [55, 76] :[SC, HC] [0.14285714285714285, 0.005785123966942148]  /base/popstra/celebrity/breakup./base/popstra/breakup/participant^-1;  /people/person/religion; 
+Rule 8:  [21, 76] :[SC, HC] [0.12239902080783353, 0.08264462809917356]  /influence/influence_node/influenced_by^-1;  /people/person/religion; 
+Rule 9:  [20, 76] :[SC, HC] [0.11614730878186968, 0.10165289256198347]  /influence/influence_node/influenced_by;  /people/person/religion; 
+Rule 10:  [185, 76] :[SC, HC] [0.18823529411764706, 0.013223140495867768]  /influence/influence_node/peers./influence/peer_relationship/peers^-1;  /people/person/religion; 
+Rule 11:  [46, 76] :[SC, HC] [0.12166666666666667, 0.0603305785123967]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant;  /people/person/religion; 
+Rule 12:  [47, 76] :[SC, HC] [0.12100840336134454, 0.05950413223140496]  /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1;  /people/person/religion; 
+Rule 13:  [120, 76] :[SC, HC] [0.25153374233128833, 0.033884297520661154]  /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant;  /people/person/religion; 
+Rule 14:  [116, 76] :[SC, HC] [0.18691588785046728, 0.01652892561983471]  /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend;  /people/person/religion; 
+Rule 15:  [5, 76] :[SC, HC] [0.061886792452830186, 0.06776859504132231]  /award/award_winner/awards_won./award/award_honor/award_winner^-1;  /people/person/religion; 
+Rule 16:  [182, 76] :[SC, HC] [0.17307692307692307, 0.02231404958677686]  /people/person/spouse_s./people/marriage/spouse;  /people/person/religion; 
+
+After duplicate elimination, Rule_num: 17
+After duplicate elimination, Qualify_Rule_num: 0
+

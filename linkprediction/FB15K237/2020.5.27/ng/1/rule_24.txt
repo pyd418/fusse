@@ -1,0 +1,35 @@
+/people/person/place_of_birth
+length: 2, num: 29
+Rule 1:  [61, 82] :[SC, HC] [0.018728222996515678, 0.016456180635285114] /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; /people/person/places_lived./people/place_lived/location; 
+Rule 2:  [82, 182] :[SC, HC] [0.07157464212678936, 0.013394565633371604] /people/person/places_lived./people/place_lived/location; /base/aareas/schema/administrative_area/capital; 
+Rule 3:  [82, 138] :[SC, HC] [0.017011834319526627, 0.008802143130501339] /people/person/places_lived./people/place_lived/location; /location/hud_county_place/county; 
+Rule 4:  [48, 183] :[SC, HC] [0.05785123966942149, 0.0026789131266743206] /people/deceased_person/place_of_death; /base/aareas/schema/administrative_area/capital^-1; 
+Qualify Rule 5:  [28, 139] :[SC, HC] [0.5094339622641509, 0.02066590126291619] /people/person/place_of_birth; /location/hud_county_place/county^-1; 
+Qualify Rule 6:  [28, 182] :[SC, HC] [0.5, 0.008419441255262151] /people/person/place_of_birth; /base/aareas/schema/administrative_area/capital; 
+Qualify Rule 7:  [28, 73] :[SC, HC] [1.0, 0.49866054343666283] /people/person/place_of_birth; /location/hud_county_place/place^-1; 
+Rule 8:  [82, 183] :[SC, HC] [0.02390438247011952, 0.004592422502870264] /people/person/places_lived./people/place_lived/location; /base/aareas/schema/administrative_area/capital^-1; 
+Rule 9:  [23, 28] :[SC, HC] [0.011648745519713262, 0.004975124378109453] /influence/influence_node/influenced_by^-1; /people/person/place_of_birth; 
+Rule 10:  [82, 161] :[SC, HC] [0.012006549026741859, 0.02525832376578645] /people/person/places_lived./people/place_lived/location; /base/biblioness/bibs_location/state^-1; 
+Rule 11:  [68, 82] :[SC, HC] [0.025, 0.002296211251435132] /base/popstra/celebrity/breakup./base/popstra/breakup/participant; /people/person/places_lived./people/place_lived/location; 
+Rule 12:  [28, 305] :[SC, HC] [0.13043478260869565, 0.004592422502870264] /people/person/place_of_birth; /dataworld/gardening_hint/split_to^-1; 
+Rule 13:  [69, 82] :[SC, HC] [0.015810276679841896, 0.0015308075009567547] /base/popstra/celebrity/breakup./base/popstra/breakup/participant^-1; /people/person/places_lived./people/place_lived/location; 
+Rule 14:  [60, 82] :[SC, HC] [0.0173235166738848, 0.015308075009567547] /base/popstra/celebrity/friendship./base/popstra/friendship/participant; /people/person/places_lived./people/place_lived/location; 
+Rule 15:  [153, 161] :[SC, HC] [0.017777777777777778, 0.0015308075009567547] /base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer^-1; /base/biblioness/bibs_location/state^-1; 
+Rule 16:  [22, 48] :[SC, HC] [0.01059322033898305, 0.003827018752391887] /influence/influence_node/influenced_by; /people/deceased_person/place_of_death; 
+Rule 17:  [28, 138] :[SC, HC] [0.05118483412322275, 0.02066590126291619] /people/person/place_of_birth; /location/hud_county_place/county; 
+Rule 18:  [28, 183] :[SC, HC] [0.061452513966480445, 0.008419441255262151] /people/person/place_of_birth; /base/aareas/schema/administrative_area/capital^-1; 
+Rule 19:  [82, 259] :[SC, HC] [0.044444444444444446, 0.007654037504783774] /people/person/places_lived./people/place_lived/location; /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division^-1; 
+Rule 20:  [23, 48] :[SC, HC] [0.015174506828528073, 0.003827018752391887] /influence/influence_node/influenced_by^-1; /people/deceased_person/place_of_death; 
+Rule 21:  [48, 73] :[SC, HC] [0.04377880184331797, 0.007271335629544585] /people/deceased_person/place_of_death; /location/hud_county_place/place^-1; 
+Qualify Rule 22:  [28, 250] :[SC, HC] [0.9568965517241379, 0.04247990815154994] /people/person/place_of_birth; /location/us_county/county_seat; 
+Rule 23:  [48, 182] :[SC, HC] [0.2857142857142857, 0.002296211251435132] /people/deceased_person/place_of_death; /base/aareas/schema/administrative_area/capital; 
+Rule 24:  [82, 139] :[SC, HC] [0.09688581314878893, 0.010715652506697282] /people/person/places_lived./people/place_lived/location; /location/hud_county_place/county^-1; 
+Rule 25:  [28, 251] :[SC, HC] [0.17289719626168223, 0.04247990815154994] /people/person/place_of_birth; /location/us_county/county_seat^-1; 
+Rule 26:  [22, 28] :[SC, HC] [0.013023255813953489, 0.005357826253348641] /influence/influence_node/influenced_by; /people/person/place_of_birth; 
+Qualify Rule 27:  [28, 72] :[SC, HC] [1.0, 0.49866054343666283] /people/person/place_of_birth; /location/hud_county_place/place; 
+Rule 28:  [28, 304] :[SC, HC] [0.2033898305084746, 0.004592422502870264] /people/person/place_of_birth; /dataworld/gardening_hint/split_to; 
+Rule 29:  [48, 72] :[SC, HC] [0.04377880184331797, 0.007271335629544585] /people/deceased_person/place_of_death; /location/hud_county_place/place; 
+
+Rule_num: 24
+Qualify_Rule_num: 5
+

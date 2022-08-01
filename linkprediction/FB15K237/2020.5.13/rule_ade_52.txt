@@ -1,0 +1,68 @@
+/music/genre/parent_genre
+length: 2, num: 1
+Rule 0:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 1
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 2
+Rule 0:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806]  /dataworld/gardening_hint/split_to;  /music/genre/parent_genre; 
+Rule 1:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 2
+Rule 0:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806]  /dataworld/gardening_hint/split_to;  /music/genre/parent_genre; 
+Rule 1:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 1
+Rule 0:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 1
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 1
+Rule 0:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 1
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 1
+Rule 0:  [6, 6] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 1
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 2
+Rule 0:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806]  /dataworld/gardening_hint/split_to;  /music/genre/parent_genre; 
+Rule 1:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 2
+Rule 0:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806]  /dataworld/gardening_hint/split_to;  /music/genre/parent_genre; 
+Rule 1:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 0
+
+/music/genre/parent_genre
+length: 2, num: 2
+Rule 0:  [2, 12] :[SC, HC] [1.0, 0.003978779840848806]  /dataworld/gardening_hint/split_to;  /music/genre/parent_genre; 
+Rule 1:  [12, 12] :[SC, HC] [0.15228426395939088, 0.35809018567639256]  /music/genre/parent_genre;  /music/genre/parent_genre; 
+
+After duplicate elimination, Rule_num: 2
+After duplicate elimination, Qualify_Rule_num: 0
+

@@ -1,0 +1,6 @@
+/location/country/form_of_government
+length: 2, num: 0
+
+After duplicate elimination, Rule_num: 0
+After duplicate elimination, Qualify_Rule_num: 0
+

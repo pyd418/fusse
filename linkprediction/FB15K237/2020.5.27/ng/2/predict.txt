@@ -1,0 +1,12 @@
+predict_fact_avg: 5661.0
+predict_Qfact_avg: 0.0
+predict_fact_avg: 17547.0
+predict_Qfact_avg: 0.0
+predict_fact_avg: 15990.0
+predict_Qfact_avg: 0.0
+predict_fact_avg: 8081.0
+predict_Qfact_avg: 0.0
+predict_fact_avg: 14800.0
+predict_Qfact_avg: 0.0
+predict_fact_avg: 11815.0
+predict_Qfact_avg: 0.0

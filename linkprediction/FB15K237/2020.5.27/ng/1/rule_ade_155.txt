@@ -1,0 +1,11 @@
+/film/film/story_by
+length: 2, num: 5
+Rule 0:  [138, 148] :[SC, HC] [0.2054794520547945, 0.03676470588235294]  /award/award_winning_work/awards_won./award/award_honor/honored_for;  /film/film/story_by; 
+Rule 1:  [148, 180] :[SC, HC] [0.0625, 0.0024509803921568627]  /film/film/story_by;  /people/person/spouse_s./people/marriage/spouse; 
+Rule 2:  [148, 166] :[SC, HC] [0.36363636363636365, 0.00980392156862745]  /film/film/story_by;  /people/person/sibling_s./people/sibling_relationship/sibling; 
+Rule 3:  [148, 185] :[SC, HC] [0.15555555555555556, 0.01715686274509804]  /film/film/story_by;  /influence/influence_node/peers./influence/peer_relationship/peers^-1; 
+Rule 4:  [100, 148] :[SC, HC] [0.2857142857142857, 0.08333333333333333]  /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for;  /film/film/story_by; 
+
+After duplicate elimination, Rule_num: 5
+After duplicate elimination, Qualify_Rule_num: 0
+

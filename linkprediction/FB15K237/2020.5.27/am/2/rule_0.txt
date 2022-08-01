@@ -1,0 +1,54 @@
+/location/country/form_of_government
+length: 2, num: 0
+
+Rule_num: 0
+Qualify_Rule_num: 0
+
+/location/country/form_of_government
+length: 2, num: 18
+Qualify Rule 1:  [101, 0] :[SC, HC] [1.0, 0.003067484662576687] /time/event/locations^-1; /location/country/form_of_government; 
+Qualify Rule 2:  [135, 0] :[SC, HC] [0.8571428571428571, 0.018404907975460124] /dataworld/gardening_hint/split_to^-1; /location/country/form_of_government; 
+Rule 3:  [100, 0] :[SC, HC] [0.011904761904761904, 0.003067484662576687] /time/event/locations; /location/country/form_of_government; 
+Rule 4:  [6, 0] :[SC, HC] [0.02040816326530612, 0.006134969325153374] /location/location/contains; /location/country/form_of_government; 
+Rule 5:  [134, 0] :[SC, HC] [0.4375, 0.02147239263803681] /dataworld/gardening_hint/split_to; /location/country/form_of_government; 
+Rule 6:  [89, 0] :[SC, HC] [0.22826086956521738, 0.19325153374233128] /military/military_combatant/military_conflicts./military/military_combatant_group/combatants^-1; /location/country/form_of_government; 
+Rule 7:  [123, 0] :[SC, HC] [0.3357664233576642, 0.1411042944785276] /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to^-1; /location/country/form_of_government; 
+Rule 8:  [74, 0] :[SC, HC] [0.03454231433506045, 0.06134969325153374] /location/administrative_division/country; /location/country/form_of_government; 
+Rule 9:  [36, 0] :[SC, HC] [0.2984409799554566, 0.4110429447852761] /location/location/adjoin_s./location/adjoining_relationship/adjoins; /location/country/form_of_government; 
+Rule 10:  [41, 0] :[SC, HC] [0.2222222222222222, 0.006134969325153374] /base/aareas/schema/administrative_area/administrative_parent^-1; /location/country/form_of_government; 
+Qualify Rule 11:  [119, 0] :[SC, HC] [0.5, 0.006134969325153374] /location/administrative_division/first_level_division_of^-1; /location/country/form_of_government; 
+Rule 12:  [40, 0] :[SC, HC] [0.014925373134328358, 0.015337423312883436] /base/aareas/schema/administrative_area/administrative_parent; /location/country/form_of_government; 
+Rule 13:  [118, 0] :[SC, HC] [0.0379746835443038, 0.018404907975460124] /location/administrative_division/first_level_division_of; /location/country/form_of_government; 
+Qualify Rule 14:  [75, 0] :[SC, HC] [0.9333333333333333, 0.04294478527607362] /location/administrative_division/country^-1; /location/country/form_of_government; 
+Rule 15:  [122, 0] :[SC, HC] [0.29605263157894735, 0.13803680981595093] /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; /location/country/form_of_government; 
+Rule 16:  [88, 0] :[SC, HC] [0.22021660649819494, 0.18711656441717792] /military/military_combatant/military_conflicts./military/military_combatant_group/combatants; /location/country/form_of_government; 
+Rule 17:  [37, 0] :[SC, HC] [0.3087557603686636, 0.4110429447852761] /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1; /location/country/form_of_government; 
+Rule 18:  [73, 0] :[SC, HC] [0.3333333333333333, 0.006134969325153374] /base/biblioness/bibs_location/country^-1; /location/country/form_of_government; 
+
+Rule_num: 14
+Qualify_Rule_num: 4
+
+/location/country/form_of_government
+length: 2, num: 18
+Rule 1:  [134, 0] :[SC, HC] [0.4375, 0.02147239263803681] /dataworld/gardening_hint/split_to; /location/country/form_of_government; 
+Rule 2:  [118, 0] :[SC, HC] [0.0379746835443038, 0.018404907975460124] /location/administrative_division/first_level_division_of; /location/country/form_of_government; 
+Rule 3:  [89, 0] :[SC, HC] [0.22826086956521738, 0.19325153374233128] /military/military_combatant/military_conflicts./military/military_combatant_group/combatants^-1; /location/country/form_of_government; 
+Rule 4:  [41, 0] :[SC, HC] [0.2222222222222222, 0.006134969325153374] /base/aareas/schema/administrative_area/administrative_parent^-1; /location/country/form_of_government; 
+Rule 5:  [36, 0] :[SC, HC] [0.2984409799554566, 0.4110429447852761] /location/location/adjoin_s./location/adjoining_relationship/adjoins; /location/country/form_of_government; 
+Rule 6:  [100, 0] :[SC, HC] [0.011904761904761904, 0.003067484662576687] /time/event/locations; /location/country/form_of_government; 
+Rule 7:  [74, 0] :[SC, HC] [0.03454231433506045, 0.06134969325153374] /location/administrative_division/country; /location/country/form_of_government; 
+Rule 8:  [6, 0] :[SC, HC] [0.02040816326530612, 0.006134969325153374] /location/location/contains; /location/country/form_of_government; 
+Rule 9:  [123, 0] :[SC, HC] [0.3357664233576642, 0.1411042944785276] /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to^-1; /location/country/form_of_government; 
+Qualify Rule 10:  [119, 0] :[SC, HC] [0.5, 0.006134969325153374] /location/administrative_division/first_level_division_of^-1; /location/country/form_of_government; 
+Rule 11:  [88, 0] :[SC, HC] [0.22021660649819494, 0.18711656441717792] /military/military_combatant/military_conflicts./military/military_combatant_group/combatants; /location/country/form_of_government; 
+Qualify Rule 12:  [135, 0] :[SC, HC] [0.8571428571428571, 0.018404907975460124] /dataworld/gardening_hint/split_to^-1; /location/country/form_of_government; 
+Rule 13:  [40, 0] :[SC, HC] [0.014925373134328358, 0.015337423312883436] /base/aareas/schema/administrative_area/administrative_parent; /location/country/form_of_government; 
+Rule 14:  [37, 0] :[SC, HC] [0.3087557603686636, 0.4110429447852761] /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1; /location/country/form_of_government; 
+Rule 15:  [122, 0] :[SC, HC] [0.29605263157894735, 0.13803680981595093] /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; /location/country/form_of_government; 
+Qualify Rule 16:  [101, 0] :[SC, HC] [1.0, 0.003067484662576687] /time/event/locations^-1; /location/country/form_of_government; 
+Rule 17:  [73, 0] :[SC, HC] [0.3333333333333333, 0.006134969325153374] /base/biblioness/bibs_location/country^-1; /location/country/form_of_government; 
+Qualify Rule 18:  [75, 0] :[SC, HC] [0.9333333333333333, 0.04294478527607362] /location/administrative_division/country^-1; /location/country/form_of_government; 
+
+Rule_num: 14
+Qualify_Rule_num: 4
+

@@ -1,0 +1,17 @@
+/people/person/religion
+length: 2, num: 11
+Rule 1:  [75, 76] :[SC, HC] [0.13598326359832635, 0.05371900826446281] /base/popstra/celebrity/dated./base/popstra/dated/participant^-1; /people/person/religion; 
+Rule 2:  [74, 76] :[SC, HC] [0.1331923890063425, 0.05206611570247934] /base/popstra/celebrity/dated./base/popstra/dated/participant; /people/person/religion; 
+Rule 3:  [47, 76] :[SC, HC] [0.12100840336134454, 0.05950413223140496] /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; /people/person/religion; 
+Rule 4:  [54, 76] :[SC, HC] [0.15217391304347827, 0.005785123966942148] /base/popstra/celebrity/breakup./base/popstra/breakup/participant; /people/person/religion; 
+Rule 5:  [55, 76] :[SC, HC] [0.14285714285714285, 0.005785123966942148] /base/popstra/celebrity/breakup./base/popstra/breakup/participant^-1; /people/person/religion; 
+Rule 6:  [46, 76] :[SC, HC] [0.12166666666666667, 0.0603305785123967] /base/popstra/celebrity/friendship./base/popstra/friendship/participant; /people/person/religion; 
+Rule 7:  [20, 76] :[SC, HC] [0.11614730878186968, 0.10165289256198347] /influence/influence_node/influenced_by; /people/person/religion; 
+Rule 8:  [76, 212] :[SC, HC] [0.011764705882352941, 0.001652892561983471] /people/person/religion; /dataworld/gardening_hint/split_to; 
+Rule 9:  [21, 76] :[SC, HC] [0.12239902080783353, 0.08264462809917356] /influence/influence_node/influenced_by^-1; /people/person/religion; 
+Rule 10:  [5, 76] :[SC, HC] [0.061886792452830186, 0.06776859504132231] /award/award_winner/awards_won./award/award_honor/award_winner^-1; /people/person/religion; 
+Rule 11:  [4, 76] :[SC, HC] [0.06074074074074074, 0.06776859504132231] /award/award_winner/awards_won./award/award_honor/award_winner; /people/person/religion; 
+
+Rule_num: 11
+Qualify_Rule_num: 0
+

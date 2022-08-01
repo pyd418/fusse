@@ -1,0 +1,16 @@
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+length: 2, num: 10
+Rule 1:  [9, 60] :[SC, HC] [0.20120378331900257, 0.4474187380497132] /award/award_nominee/award_nominations./award/award_nomination/award_nominee^-1; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 2:  [49, 60] :[SC, HC] [0.39002932551319647, 0.25430210325047803] /base/popstra/celebrity/friendship./base/popstra/friendship/participant^-1; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 3:  [2, 60] :[SC, HC] [0.20476190476190476, 0.24665391969407266] /award/award_winner/awards_won./award/award_honor/award_winner; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 4:  [57, 60] :[SC, HC] [0.32653061224489793, 0.030592734225621414] /base/popstra/celebrity/breakup./base/popstra/breakup/participant^-1; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 5:  [19, 60] :[SC, HC] [0.19548872180451127, 0.0497131931166348] /influence/influence_node/influenced_by^-1; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 6:  [18, 60] :[SC, HC] [0.3875, 0.05927342256214149] /influence/influence_node/influenced_by; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 7:  [3, 60] :[SC, HC] [0.20500782472613457, 0.25047801147227533] /award/award_winner/awards_won./award/award_honor/award_winner^-1; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 8:  [56, 60] :[SC, HC] [0.3333333333333333, 0.030592734225621414] /base/popstra/celebrity/breakup./base/popstra/breakup/participant; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 9:  [8, 60] :[SC, HC] [0.19544259421560034, 0.42638623326959846] /award/award_nominee/award_nominations./award/award_nomination/award_nominee; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+Rule 10:  [48, 60] :[SC, HC] [0.38571428571428573, 0.25812619502868067] /base/popstra/celebrity/friendship./base/popstra/friendship/participant; /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency; 
+
+Rule_num: 10
+Qualify_Rule_num: 0
+

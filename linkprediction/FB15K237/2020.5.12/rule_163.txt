@@ -1,0 +1,45 @@
+/time/event/locations
+length: 2, num: 39
+Rule 1:  [72, 166] :[SC, HC] [0.008064516129032258, 0.002531645569620253] /base/culturalevent/event/entity_involved; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; 
+Qualify Rule 2:  [128, 181] :[SC, HC] [0.6428571428571429, 0.02278481012658228] /time/event/locations; /dataworld/gardening_hint/split_to^-1; 
+Rule 3:  [128, 167] :[SC, HC] [0.02717391304347826, 0.012658227848101266] /time/event/locations; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to^-1; 
+Rule 4:  [72, 175] :[SC, HC] [0.09375, 0.007594936708860759] /base/culturalevent/event/entity_involved; /location/location/partially_contains^-1; 
+Rule 5:  [128, 166] :[SC, HC] [0.025380710659898477, 0.012658227848101266] /time/event/locations; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; 
+Rule 6:  [128, 46] :[SC, HC] [0.08394160583941605, 0.11645569620253164] /time/event/locations; /location/location/adjoin_s./location/adjoining_relationship/adjoins; 
+Rule 7:  [128, 175] :[SC, HC] [0.029850746268656716, 0.005063291139240506] /time/event/locations; /location/location/partially_contains^-1; 
+Rule 8:  [94, 166] :[SC, HC] [0.00975609756097561, 0.015189873417721518] /military/military_conflict/combatants./military/military_combatant_group/combatants; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to; 
+Rule 9:  [94, 47] :[SC, HC] [0.02781289506953224, 0.05569620253164557] /military/military_conflict/combatants./military/military_combatant_group/combatants; /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1; 
+Rule 10:  [94, 114] :[SC, HC] [0.014208721215090642, 0.07341772151898734] /military/military_conflict/combatants./military/military_combatant_group/combatants; /military/military_combatant/military_conflicts./military/military_combatant_group/combatants; 
+Rule 11:  [128, 65] :[SC, HC] [0.06896551724137931, 0.005063291139240506] /time/event/locations; /base/locations/continents/countries_within^-1; 
+Rule 12:  [94, 181] :[SC, HC] [0.007936507936507936, 0.002531645569620253] /military/military_conflict/combatants./military/military_combatant_group/combatants; /dataworld/gardening_hint/split_to^-1; 
+Rule 13:  [94, 9] :[SC, HC] [0.07623318385650224, 0.043037974683544304] /military/military_conflict/combatants./military/military_combatant_group/combatants; /location/location/contains^-1; 
+Rule 14:  [128, 145] :[SC, HC] [0.04081632653061224, 0.010126582278481013] /time/event/locations; /location/us_county/county_seat^-1; 
+Rule 15:  [94, 175] :[SC, HC] [0.09554140127388536, 0.0379746835443038] /military/military_conflict/combatants./military/military_combatant_group/combatants; /location/location/partially_contains^-1; 
+Rule 16:  [128, 105] :[SC, HC] [0.03076923076923077, 0.005063291139240506] /time/event/locations; /base/aareas/schema/administrative_area/capital^-1; 
+Rule 17:  [128, 82] :[SC, HC] [0.09803921568627451, 0.02531645569620253] /time/event/locations; /location/hud_county_place/county; 
+Rule 18:  [128, 104] :[SC, HC] [0.3333333333333333, 0.005063291139240506] /time/event/locations; /base/aareas/schema/administrative_area/capital; 
+Rule 19:  [94, 167] :[SC, HC] [0.008356545961002786, 0.015189873417721518] /military/military_conflict/combatants./military/military_combatant_group/combatants; /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to^-1; 
+Rule 20:  [72, 115] :[SC, HC] [0.016415868673050615, 0.030379746835443037] /base/culturalevent/event/entity_involved; /military/military_combatant/military_conflicts./military/military_combatant_group/combatants^-1; 
+Qualify Rule 21:  [128, 144] :[SC, HC] [1.0, 0.010126582278481013] /time/event/locations; /location/us_county/county_seat; 
+Rule 22:  [94, 46] :[SC, HC] [0.03201970443349754, 0.06582278481012659] /military/military_conflict/combatants./military/military_combatant_group/combatants; /location/location/adjoin_s./location/adjoining_relationship/adjoins; 
+Qualify Rule 23:  [128, 180] :[SC, HC] [0.6428571428571429, 0.02278481012658228] /time/event/locations; /dataworld/gardening_hint/split_to; 
+Rule 24:  [94, 180] :[SC, HC] [0.03225806451612903, 0.002531645569620253] /military/military_conflict/combatants./military/military_combatant_group/combatants; /dataworld/gardening_hint/split_to; 
+Qualify Rule 25:  [128, 45] :[SC, HC] [1.0, 0.46329113924050636] /time/event/locations; /location/hud_county_place/place^-1; 
+Rule 26:  [72, 9] :[SC, HC] [0.1, 0.02531645569620253] /base/culturalevent/event/entity_involved; /location/location/contains^-1; 
+Rule 27:  [72, 46] :[SC, HC] [0.06417112299465241, 0.030379746835443037] /base/culturalevent/event/entity_involved; /location/location/adjoin_s./location/adjoining_relationship/adjoins; 
+Qualify Rule 28:  [128, 83] :[SC, HC] [1.0, 0.02531645569620253] /time/event/locations; /location/hud_county_place/county^-1; 
+Qualify Rule 29:  [128, 44] :[SC, HC] [1.0, 0.46329113924050636] /time/event/locations; /location/hud_county_place/place; 
+Rule 30:  [128, 47] :[SC, HC] [0.08409506398537477, 0.11645569620253164] /time/event/locations; /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1; 
+Qualify Rule 31:  [72, 128] :[SC, HC] [1.0, 0.005063291139240506] /base/culturalevent/event/entity_involved; /time/event/locations; 
+Rule 32:  [128, 114] :[SC, HC] [0.027777777777777776, 0.04050632911392405] /time/event/locations; /military/military_combatant/military_conflicts./military/military_combatant_group/combatants; 
+Rule 33:  [94, 115] :[SC, HC] [0.012987012987012988, 0.06329113924050633] /military/military_conflict/combatants./military/military_combatant_group/combatants; /military/military_combatant/military_conflicts./military/military_combatant_group/combatants^-1; 
+Rule 34:  [128, 174] :[SC, HC] [0.013157894736842105, 0.005063291139240506] /time/event/locations; /location/location/partially_contains; 
+Rule 35:  [72, 114] :[SC, HC] [0.01859229747675963, 0.035443037974683546] /base/culturalevent/event/entity_involved; /military/military_combatant/military_conflicts./military/military_combatant_group/combatants; 
+Rule 36:  [72, 47] :[SC, HC] [0.0446927374301676, 0.020253164556962026] /base/culturalevent/event/entity_involved; /location/location/adjoin_s./location/adjoining_relationship/adjoins^-1; 
+Rule 37:  [94, 65] :[SC, HC] [0.07692307692307693, 0.012658227848101266] /military/military_conflict/combatants./military/military_combatant_group/combatants; /base/locations/continents/countries_within^-1; 
+Rule 38:  [128, 9] :[SC, HC] [0.010706638115631691, 0.012658227848101266] /time/event/locations; /location/location/contains^-1; 
+Rule 39:  [128, 115] :[SC, HC] [0.027972027972027972, 0.04050632911392405] /time/event/locations; /military/military_combatant/military_conflicts./military/military_combatant_group/combatants^-1; 
+
+Rule_num: 32
+Qualify_Rule_num: 7
+

@@ -1,0 +1,6 @@
+/location/country/form_of_government
+length: 2, num: 0
+
+Rule_num: 0
+Qualify_Rule_num: 0
+
