@@ -6,7 +6,7 @@ import tensorflow.contrib.layers as layers
 from tfbert import BertTokenizer, BertConfig, BertModel, ALBertTokenizer, ALBertConfig, ALBertModel
 
 
-class DKRL(object):
+class TEXT_CNN(object):
     def __init__(self, config, content_len, vocab2id, is_training=True, desciption_data=None, lengths=None):
 
         self.embedding_size = config.embedding_size

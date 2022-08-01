@@ -1,5 +1,5 @@
 import tensorflow as tf
-from .text_model import DKRL
+from .text_model import TEXT_CNN
 from .transe_model import TransE
 from .SSP import SSP
 from .SSP_JOINT_TXT import SSP_JOINT_TXT
@@ -151,9 +151,9 @@ def test_model():
         with tf.Session() as sess:
 
             if flags.model == "text_emb":
-                model = DKRL(flags, data_loader.lengths, data_loader.vocab2id, is_training=False,
-                             desciption_data=data_loader.get_all_description(),
-                             lengths=data_loader.get_all_content_len())
+                model = TEXT_CNN(flags, data_loader.lengths, data_loader.vocab2id, is_training=False,
+                                 desciption_data=data_loader.get_all_description(),
+                                 lengths=data_loader.get_all_content_len())
             elif flags.model == "transE":
                 model = TransE(flags)
             elif flags.model == "ssp_joint_txt":
