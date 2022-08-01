@@ -13,3 +13,11 @@ Hit_10_total: 1
 0, 0.767442
 AVG: 0.767442
 Algorithm total time: 0 : 2 : 44.313490
+MRR_total: 1
+0, 0.533333
+AVG: 0.533333
+
+Hit_10_total: 1
+0, 0.790698
+AVG: 0.790698
+Algorithm total time: 0 : 2 : 47.975337

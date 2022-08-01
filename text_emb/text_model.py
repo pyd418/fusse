@@ -115,8 +115,8 @@ class TEXT_CNN(object):
 
             # n_t_conv_res = self.cbow(n_t_words_vec, self.neg_t_content_len)
 
-            p_score = self.calc_loss_dkrl(p_h, p_r, p_t, p_h_conv_res, p_t_conv_res)
-            n_score = self.calc_loss_dkrl(n_h, n_r, n_t, n_h_conv_res, n_t_conv_res)
+            p_score = self.calc_loss_text_cnn(p_h, p_r, p_t, p_h_conv_res, p_t_conv_res)
+            n_score = self.calc_loss_text_cnn(n_h, n_r, n_t, n_h_conv_res, n_t_conv_res)
 
             # p_score = self.calc_loss_tre(p_h_conv_res, p_r, p_t_conv_res)
             # n_score = self.calc_loss_tre(n_h_conv_res, n_r, n_t_conv_res)
@@ -229,11 +229,11 @@ class TEXT_CNN(object):
         h_conv_res = tf.nn.embedding_lookup(self.ent_cnn_embeddings, self.test_h)
         t_conv_res = tf.nn.embedding_lookup(self.ent_cnn_embeddings, self.test_t)
 
-        self.predict = tf.reduce_sum(self.calc_loss_dkrl(p_h, p_r, p_t, h_conv_res, t_conv_res), 1, keep_dims=True)
+        self.predict = tf.reduce_sum(self.calc_loss_text_cnn(p_h, p_r, p_t, h_conv_res, t_conv_res), 1, keep_dims=True)
 
     # self.predict = tf.reduce_sum(self.calc_loss_tre(p_h, p_r, p_t), 1 , keep_dims=True)
 
-    def calc_loss_dkrl(self, h, r, t, d_h, d_t):
+    def calc_loss_text_cnn(self, h, r, t, d_h, d_t):
 
         # return abs((0.9*d_h + 0.1*h) + r - (0.9*d_t + 0.1*t))
 

@@ -12,7 +12,7 @@ import gc
 import time
 import csv
 import link_prediction as lp
-import text_emb.train as te_dkrl
+import text_emb.train as te_text
 # import ptranse.main as ptranse_1
 import os
 import random
@@ -316,7 +316,7 @@ if __name__ == '__main__':
                 # 0:matrix 1:vector
                 ent_emb_1, rel_emb_1 = te.trainModel(1, BENCHMARK, work_threads, train_times, nbatches, dimension, alpha,
                                                  lmbda, bern, margin, model)
-                ent_emb_2, rel_emb_2 = te_dkrl.train()
+                ent_emb_2, rel_emb_2 = te_text.train()
                 # ent_emb, rel_emb = ptranse_1.main()
 
                 ent_emb_sum = ent_emb_1 + ent_emb_2
